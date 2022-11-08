@@ -2,7 +2,7 @@
 Script para análise exploratória - Correlações
 
 Nesse script estão descritos os procedimentos de leitura, organização e análise dos dados meteorológicos, de produtividade e da fenologia floral da macieira.
-Os dados utilizados estão organizados em planilhas do excel; localizados -> C:\Dados_Renata\R\Dados_modelagem_ingles
+Os dados utilizados estão organizados em planilhas do excel; localizados -> C:\Users\Luciano-PC2\Desktop\Renata_2022\03. Rstudio\Dados\Dados_modelagem_ingles
 
 A análise exploratória deste script consiste em algumas etapas principais:
 - Leitura do bando de dados meteorológicos.
